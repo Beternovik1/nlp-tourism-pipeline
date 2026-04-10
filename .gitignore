@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Data
+data/
+*.csv
+*.json
+*.parquet
+.env
+
+# OS
+.DS_Store
